@@ -1,0 +1,116 @@
+diesel_terms:
+  - дизель             # diesel
+  - дизтопливо         # carburant diesel
+  - дт                 # DT (diesel)
+  - солярка            # gazole (familier)
+  - тяжелое топливо    # fioul lourd
+  - керосин            # kérosène
+  - мазут              # mazout
+  - гсм                # carburants et lubrifiants
+
+gasoline_terms:
+  - бензин             # essence
+  - аи-92              # AI-92
+  - аи-95              # AI-95
+  - аи-98              # AI-98
+  - высокооктановый    # octane élevé
+  - автогаз            # autogaz
+  - сжиженный газ      # gaz liquéfié
+  - пропан-бутан       # propane-butane
+
+infra_terms:
+  - нефтебаза          # dépôt pétrolier
+  - нефтехранилище     # stockage de pétrole
+  - бензовоз           # camion-citerne
+  - азс                # station-service
+  - заправка           # station / faire le plein
+
+shortage_terms:
+  - дефицит            # déficit / pénurie
+  - нехватка           # manque
+  - нет топлива        # pas de carburant
+  - нет бензина        # pas d'essence
+  - закончился бензин  # essence épuisée
+  - закончился дизель  # diesel épuisé
+  - пустые колонки     # pompes vides
+  - перебои            # interruptions
+  - перебои поставок   # interruptions de livraison
+  - срыв поставок      # rupture d'approvisionnement
+  - поставки задерживаются # livraisons retardées
+  - топливный кризис   # crise du carburant
+  - топливный голод    # famine de carburant
+  - топливная паника   # panique du carburant
+
+rationing_terms:
+  - ограничение продажи # restriction de vente
+  - ограничили продажу  # ont limité la vente
+  - лимит отпуска       # limite de distribution
+  - лимит на заправку   # limite par plein
+  - нормирование        # rationnement
+  - нормированная выдача # distribution rationnée
+  - нормированная заправка # plein rationné
+  - талон               # coupon / ticket
+  - талоны на бензин    # tickets d'essence
+  - по талонам          # sur tickets
+  - выдача по талонам   # distribution sur tickets
+
+queue_terms:
+  - очередь             # file d'attente
+  - очереди             # files d'attente
+  - очередь на азс      # file à la station-service
+  - очередь за топливом # file pour du carburant
+  - километровая очередь # file kilomètrique
+  - огромная очередь    # file énorme
+
+price_terms:
+  - рост цен            # hausse des prix
+  - скачок цен          # flambée des prix
+  - подорожание         # renchérissement
+  - подорожание топлива # hausse du prix du carburant
+  - рекордная цена      # prix record
+  - цена на бензин      # prix de l'essence
+  - цена на дизель      # prix du diesel
+  - цена на топливо     # prix du carburant
+  - розничная цена      # prix au détail
+  - оптовая цена        # prix de gros
+  - биржевая цена       # prix boursier
+  - стоимость топлива   # coût du carburant
+
+policy_terms:
+  - спимекс             # SPIMEX (bourse)
+  - спбмтсб             # SPIMEX (acronyme)
+  - топливный демпфер   # amortisseur carburant
+  - демпфер             # amortisseur
+  - экспортная пошлина  # taxe d'exportation
+  - экспортный запрет   # interdiction d'exportation
+  - запрет экспорта топлива # interdiction d'exportation de carburant
+  - повышение акциза    # hausse de l'accise
+  - топливный акциз     # accise sur le carburant
+  - субсидия            # subvention
+  - субсидия азс        # subvention aux stations
+  - регулирование цен   # régulation des prix
+  - госрегулирование    # régulation étatique
+  - постановление правительства # décret gouvernemental
+
+logistics_terms:
+  - грузоперевозки      # transport de fret
+  - перевозчики         # transporteurs
+  - дальнобойщики       # routiers / camionneurs
+  - логистика           # logistique
+  - логистика топлива   # logistique du carburant
+  - переброска топлива  # transfert de carburant
+  - оптовые партии      # lots de gros
+  - доставка топлива    # livraison de carburant
+  - ржд                 # RJD (Chemins de fer)
+  - жд перевозки        # transport ferroviaire
+
+agro_terms:
+  - аграрии             # agriculteurs
+  - фермеры             # fermiers
+  - агросектор          # secteur agricole
+  - уборочная           # moisson / récolte
+  - посевная            # semailles
+  - жатва               # moisson
+  - сельхозтехника      # machines agricoles
+  - дизель для аграриев # diesel pour agriculteurs
+  - топливо для аграриев # carburant pour agriculteurs
