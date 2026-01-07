@@ -141,7 +141,6 @@ def extract_ruble_prices(text: str) -> List[float]:
     POTENTIAL_PRICE = re.compile(r"\b(\d{2,3}(?:[.,]\d+)?)\b")
     
     # We need to know if the text talks about fuel
-    # We'll re-use match_keywords logic locally or pass matched keywords? 
     # For independent utility, let's just do a quick scan for major fuel terms
     FUEL_TERMS = re.compile(r"(?:бензин|дизель|дт|аи-9\d|аи-100|fuel|gasoline|diesel)", flags=re.IGNORECASE)
     
