@@ -6,13 +6,13 @@ Ce projet vise à anticiper les pénuries de carburant en Russie en analysant le
 
 ---
 
-## 📋 Pré-requis
+## Pré-requis
 
 *   **Python 3.11+**
 *   Compte développeur Telegram (pour obtenir `API_ID` et `API_HASH`)
 *   Bibliothèques listées dans `pyproject.toml` (installables via `pip install -e .`)
 
-## ⚙️ Installation
+## Installation
 
 1.  **Cloner le dépôt**
     ```bash
@@ -37,7 +37,7 @@ Ce projet vise à anticiper les pénuries de carburant en Russie en analysant le
 
 ---
 
-## 🚀 Utilisation
+## Utilisation
 
 ### 1. Pipeline Complet (Recommandé)
 Un script Bash automatise l'ensemble de la chaîne (Collecte -> Feature Engineering -> Entraînement -> Visualisation).
@@ -74,7 +74,7 @@ Le projet expose une CLI `rft` (ou via `python -m src.cli`) :
 
 ---
 
-## 📂 Structure du Projet
+## Structure du Projet
 
 *   `src/` : Code source du package (Scraping, NLP, Modélisation).
 *   `data/` :
@@ -86,8 +86,11 @@ Le projet expose une CLI `rft` (ou via `python -m src.cli`) :
 
 ---
 
-## 👥 Auteurs
-*   **Tom DUCARD**
-*   *(Ajouter autres membres)*
+## Auteurs
+*  **Tolstineva Anastasiia**
+*  **Latil Quentin**
+*  **Tom DUCARD**
+
+  
 
 **École** : ENSAE Paris
